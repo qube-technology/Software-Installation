@@ -11,6 +11,8 @@
    - NPM/Node
    - Packer
    - Terraform
+   - Nexus
+   - Sonar Qube
    - Monit
    - Nginx
    - Apache
