@@ -1,23 +1,28 @@
 ## Software-Installation-Scripts for REDHAT/CENTOS/FEDORA
 
-#### It contain Shell script for below Reqiured Software Installtion:
+### It contain Shell script for below Reqiured Software Installtion:
 
-   
+#### DevOps Tools :
+
    - Maven
    - Jenkins
    - Ansible
    - Docker
    - Apache Tomcat
    - NPM/Node
-   - Packer
-   - Terraform
    - Nexus
    - Sonar Qube
    - Monit
    - Nginx
    - Apache
    - Git,Java,python,Wget
+   
+#### AWS Tools:
 
+   - Packer
+   - Terraform
+   - AWS-CLI
+   - Python Boto-3
 
 ### For the Software Installation follow below steps.
 
