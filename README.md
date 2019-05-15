@@ -25,7 +25,6 @@
      
    - Go inside the repo ( cd Software-Installation ) and give Execute permission for the script which one you want to run.
    
-     Ex: 
             chmod +x Jenkins-Installation.sh
       
    - Finally run the script like below.
