@@ -1,6 +1,6 @@
-# Software-Installation-Scripts for REDHAT/CENTOS/FEDORA
+## Software-Installation-Scripts for REDHAT/CENTOS/FEDORA
 
-## It contain Shell script for Reqiured Software Installtion like below:
+#### It contain Shell script for Reqiured Software Installtion like below:
 
    
    - Maven
